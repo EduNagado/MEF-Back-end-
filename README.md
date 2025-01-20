@@ -1,4 +1,4 @@
-﻿# MEF-Back-end-
+﻿# MEF Back-end
 Um sistema interativo que gerencia contas de usuários, cadastro de veículos e oferece suporte por meio de um assistente virtual para relatar problemas. Criado em Python, o projeto utiliza validações robustas para garantir a segurança e consistência dos dados.
 
 ## Funcionalidades
